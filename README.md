@@ -7,3 +7,5 @@ Created in 2015 for VSquared Labs
 
 How to use:
 A CHOP sets the custom parameters (such as how many points to track), while an Info DAT receives the output (vectors that describe the optical flow). See the TOE example.
+
+Demo video: https://vimeo.com/114542945
