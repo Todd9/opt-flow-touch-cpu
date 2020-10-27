@@ -1,0 +1,12 @@
+showInput	0	
+showPoints	0	
+showVectors	1	
+returnForce	0.09	
+useAutoFind	0	
+maxAutoPoints	40	
+autoRefresh	120	(every n frmes)
+useGridPoints	0	
+gridPointsX	4	
+gridPointsY	3	
+useChopPoints	1	
+cookNth	2	1=cook every frame, 2=cook every 2nd frame, etc.
